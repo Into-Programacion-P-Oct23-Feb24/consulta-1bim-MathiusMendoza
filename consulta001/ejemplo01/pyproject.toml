@@ -4,3 +4,5 @@ build-backend = "hatchling.build"
 [project]
 description = ""
 version = "0.1.0"
+name = "ejemplo01"
+requires-python = ">=3.12.0"

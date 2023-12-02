@@ -3,9 +3,5 @@
 # Press Shift+F6 to execute it or replace it with your code.
 
 
-def print_hi(name):
-    print(f'Hi, {name}')
-
-
-if __name__ == '__main__':
-    print_hi('Netbeans')
+inicio = input("Hola, cual es tu nombre ")
+print ("Hola", inicio)
